@@ -85,7 +85,7 @@
         </div>
     </section>
 
-    <section id="download" class="content-section text-center">
+    <section id="download" class="content-section text-center minHeight">
         <div class="download-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
@@ -107,7 +107,6 @@
             <div id="mes-box" class="col-lg-8 col-lg-offset-2">
                 <p>わたしたちと<br>みなさんで、新しい<br>学びの形をつくろう</p>
             </div>
-            
         </div>
     </section>
 
@@ -118,9 +117,7 @@
             </div>
             <div id="be-sh-box" class="col-lg-8 col-lg-offset-2">
                 <!-- be a study hacker -->
-                <div id="be-sh">
-                    <img src="img/logo.png" alt="Be a STUDY HACKER">
-                </div>
+                <img id="be-sh-img" src="img/logo.png" alt="Be a STUDY HACKER">
             </div>
         </div>
     </section>
